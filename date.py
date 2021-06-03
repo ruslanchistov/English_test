@@ -1,0 +1,5 @@
+question = ('What', 'When', 'Who', 'Where', 'Why', 'How')
+pronoun_who = ('i', 'you', 'he', 'she', 'we', 'they')
+pronoun_whom = ('me', 'you', 'him', 'her', 'us', 'them')
+pronoun_whose = ('my', 'your', 'him', 'her', 'our', 'their')
+verb = ('like', 'help', 'search', 'talk')
